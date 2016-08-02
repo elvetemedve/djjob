@@ -1,5 +1,5 @@
 {
-    "name": "seatgeek/djjob",
+    "name": "elvetemedve/djjob",
     "type": "library",
     "version": "1.0.0",
     "description": "Allows PHP web applications to process long-running tasks asynchronously",
